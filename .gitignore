@@ -17,5 +17,3 @@ yarn-error.log
 # visual studio code
 .history
 *.log
-
-**/promise
